@@ -9,6 +9,12 @@
     margin-top: 30px;
 }
 
+.hero{
+    display: none;
+
+}
+
+
 
 .SiteHeader-join_us_popup h2 {
     color: #0d6efd;
